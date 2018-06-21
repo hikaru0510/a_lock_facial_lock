@@ -1,1 +1,1 @@
-# a_lock_facial_lock
+A Lock uses raspberry pi, Arduino, and a servo to control the lock system using facial recognition. This allows user not to carry key. Also it is easy to register the user to database. But the 2 main problem is running on normal Linux-based pc is ok but it will be hard to run on raspberry pi because it needs power to run face recognition. Also the face recognition software isn't that trustable. I won't take any responsiblities for any trouble using A Lock.
